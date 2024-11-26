@@ -95,7 +95,7 @@ php artisan key:generate
 php artisan migrate --seed 
 ```
 
-- ATAU bisa mengimport database yang sudah saya export
+- ATAU bisa mengimport database yang sudah saya export di folder database
 
 ## Buat Storage Link
 
