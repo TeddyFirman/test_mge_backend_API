@@ -41,7 +41,7 @@ https://documenter.getpostman.com/view/12266282/2sAYBVgqr8
 **Clone Repository**
 
 ```bash
-git clone https://github.com/TeddyFirman/First-Laravel-Project-84.git
+git clone https://github.com/TeddyFirman/test_mge_backend_API.git
 ```
 
 **Download zip**
