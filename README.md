@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Test Backend Morning Glory Enterprise Backend with Laravel
+## Test Backend MGE Backend with Laravel
 
 
 ## Documentation Postman API
